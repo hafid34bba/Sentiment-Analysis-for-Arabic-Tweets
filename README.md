@@ -12,3 +12,7 @@ The data used for that project was collected from Twitter
 
 ![](positive_words.png)
 
+# WordsCloud for negative Tweets 
+
+![](neg_words.png)
+
