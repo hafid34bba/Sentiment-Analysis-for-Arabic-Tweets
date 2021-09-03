@@ -31,6 +31,41 @@ The data used for that project was collected from Twitter.
 
 1. Logistic Regression
 2. Support Vector Machine
-3. RandomForest
+3. Random Forest
 4. XGBoost
+
+# Results
+
+# 1. Logistic Regression
+
+| Feature         | f1 score       |
+| --------------- | -------------- |
+| Bag of Words    | 0.628          |  
+| TF-IDF          | 0.621          |
+| Word2Vec        | 0.6            |
+| Doc2Vec         | 0.54           |
+
+# 2. SVM
+| Feature         | f1 score       |
+| --------------- | -------------- |
+| Bag of Words    | 0.615          |  
+| TF-IDF          | 0.615          |
+| Word2Vec        | 0.6            |
+| Doc2Vec         | 0.55           |
+
+# 3. Random Forest
+| Feature         | f1 score       |
+| --------------- | -------------- |
+| Bag of Words    | 0.576          |  
+| TF-IDF          | 0.568          |
+| Word2Vec        | 0.526          |
+| Doc2Vec         | 0.41           |
+
+# 4. XGBoost
+| Feature         | f1 score       |
+| --------------- | -------------- |
+| Bag of Words    | 0.576          |  
+| TF-IDF          | 0.581          |
+| Word2Vec        | 0.598          |
+| Doc2Vec         | 0.5            |
 
