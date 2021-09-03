@@ -5,3 +5,10 @@ Natural Language Processing (NLP) is a hotbed of research in data science these 
 # Data
 The data used for that project was collected from Twitter
 
+# Tweets length:
+![](tweets_size.png)
+
+# WordsCloud for positive Tweets 
+
+![](positive_words.png)
+
