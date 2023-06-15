@@ -40,32 +40,32 @@ The data used for that project was collected from Twitter.
 
 | Feature         | f1 score       |
 | --------------- | -------------- |
-| Bag of Words    | 0.628          |  
-| TF-IDF          | 0.621          |
-| Word2Vec        | 0.6            |
-| Doc2Vec         | 0.54           |
+| Bag of Words    | 0.71           |  
+| TF-IDF          | 0.74           |
+| Word2Vec        | 0.87           |
+| Doc2Vec         | 0.84           |
 
 # 2. SVM
 | Feature         | f1 score       |
 | --------------- | -------------- |
-| Bag of Words    | 0.615          |  
-| TF-IDF          | 0.615          |
-| Word2Vec        | 0.6            |
-| Doc2Vec         | 0.55           |
+| Bag of Words    | 0.715          |  
+| TF-IDF          | 0.815          |
+| Word2Vec        | 0.83           |
+| Doc2Vec         | 0.86           |
 
 # 3. Random Forest
 | Feature         | f1 score       |
 | --------------- | -------------- |
-| Bag of Words    | 0.576          |  
-| TF-IDF          | 0.568          |
-| Word2Vec        | 0.526          |
-| Doc2Vec         | 0.41           |
+| Bag of Words    | 0.72           |  
+| TF-IDF          | 0.74           |
+| Word2Vec        | 0.72           |
+| Doc2Vec         | 0.81           |
 
 # 4. XGBoost
 | Feature         | f1 score       |
 | --------------- | -------------- |
-| Bag of Words    | 0.576          |  
-| TF-IDF          | 0.581          |
-| Word2Vec        | 0.598          |
-| Doc2Vec         | 0.5            |
+| Bag of Words    | 0.74           |  
+| TF-IDF          | 0.71           |
+| Word2Vec        | 0.87           |
+| Doc2Vec         | 0.79           |
 
